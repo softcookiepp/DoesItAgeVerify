@@ -2,11 +2,11 @@ This page is a running list of Open Source Operating Systems (Linux & *BSD distr
 
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
 
-Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
+Passed OS-Level Age Verification Laws: [Brazil](https://www.gov.br/planalto/en/latest-news/2026/03/brazil-establishes-regulatory-framework-to-protect-children-and-adolescents-online), & [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043).
 
-Proposed OS-Level Age Verification Laws: [U.S. Federal Law](https://x.com/LundukeJournal/status/2044163936040411388), [Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), & [New York](https://x.com/lundukejournal/status/2029081398577922173).
+Proposed OS-Level Age Verification Laws: [U.S. Federal Law](https://www.govtrack.us/congress/bills/119/hr8250), [Colorado](https://leg.colorado.gov/bills/SB26-051), [Illinois](https://my.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511&GAID=18&LegID=167486), & [New York](https://www.nysenate.gov/legislation/bills/2025/S8102/amendment/A).
 
-Withdrawn OS-Level Age Verification Laws: [Michigan](https://x.com/LundukeJournal/status/2043143300756984045)
+Withdrawn OS-Level Age Verification Laws: [Michigan House Bill 4429](https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4429.htm), [Michigan Senate Bill 284](https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0284)
 
 ### Operating Systems Not Implementing Age Verification
 
