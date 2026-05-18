@@ -67,4 +67,5 @@ The following Operating Systems have officially added default Age Verification (
 Other repositories of information regarding age verification, anti-surveillance, and ownership rights in general
 
 [oss-anti-surveillance](https://github.com/AntiSurv/oss-anti-surveillance/tree/main)
+
 [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
