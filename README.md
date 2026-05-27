@@ -30,6 +30,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **EndeavorOS** | [Developer statement](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/) |
 | :no_entry: | **GhostBSD** | [Developer statement](https://forums.ghostbsd.org/d/793-freebsd-and-age-verification/37) |
 | :no_entry: | **Parrot OS** | [Developer statement](https://parrotsec.org/blog/2026-04-02-our-statement-about-age-verification/) |
+| :no_entry: | **Vipnix Linux** | [Developer statement](https://vipnix.com.br/site/livecd-vipnix/) |
 
 ### Operating Systems Planning to Implement Age Verification
 
