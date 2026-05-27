@@ -53,6 +53,7 @@ The developers or publishers of these open source Operating Systems have made st
 | :question: | **MX Linux** | [Developer statement](https://mxlinux.org/blog/mx-news-week-ending-march-28-2026/) |
 | :question: | **Solus** | [Developer statement](https://getsol.us/2026/04/solus-and-age-verification/) |
 | :question: | **AlmaLinux** | [Developer statement](https://almalinux.org/blog/2026-04-21-california-age-verification-law/) |
+| :question: | **Linux Mint** | userdbctl isn't installed on Mint by default, so systemd birth date field is not consumed. No statement has been made by Mint maintainers yet. |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
