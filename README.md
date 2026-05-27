@@ -26,7 +26,6 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
 | :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://agelesslinux.org/) |
 | :no_entry: | **Garuda Linux** | [Developer statement](https://forum.garudalinux.org/t/a-statement-on-age-verification-the-state-of-the-community-discourse/47652) |
-| :no_entry: | **Void Linux** | [Developer statement](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) |
 | :no_entry: | **EndeavorOS** | [Developer statement](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/) |
 | :no_entry: | **GhostBSD** | [Developer statement](https://forums.ghostbsd.org/d/793-freebsd-and-age-verification/37) |
 | :no_entry: | **Parrot OS** | [Developer statement](https://parrotsec.org/blog/2026-04-02-our-statement-about-age-verification/) |
@@ -60,6 +59,7 @@ The developers or publishers of these open source Operating Systems have made st
 | :question: | **Linux Mint** | userdbctl isn't installed on Mint by default, so systemd birth date field is not consumed. No statement has been made by Mint maintainers yet. |
 | :question: | **Bazzite** | No statement regarding age verification, but heavily dependent on Red Hat-adjacent components. |
 | :question: | **Q4OS** | [Developer statement](https://www.q4os.org/forum/viewtopic.php?id=6109) |
+| :question: | **Void Linux** | [Developer statement](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
