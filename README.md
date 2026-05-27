@@ -31,6 +31,7 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **GhostBSD** | [Developer statement](https://forums.ghostbsd.org/d/793-freebsd-and-age-verification/37) |
 | :no_entry: | **Parrot OS** | [Developer statement](https://parrotsec.org/blog/2026-04-02-our-statement-about-age-verification/) |
 | :no_entry: | **Vipnix Linux** | [Developer statement](https://vipnix.com.br/site/livecd-vipnix/) |
+| :no_entry: | **Rocky Linux** | [Developer statement](https://rockylinux.org/news/rocky-linux-and-age-verification) |
 
 ### Operating Systems Planning to Implement Age Verification
 
