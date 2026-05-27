@@ -42,6 +42,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
 | :building_construction: | **Fedora** | [Planning Discussion](https://discussion.fedoraproject.org/t/a-practical-architectural-solution-to-os-level-age-verification-laws/183387/26) |
 | :building_construction: | **Debian** | [Will help downstream distros to implement](https://lists.debian.org/debian-devel-announce/2026/04/msg00001.html) |
+| :building_construction: | **Manjaro** | [Planning Discussion](https://forum.manjaro.org/t/will-manjaro-implement-age-verification/186816/7) |
 
 ### Uncertain Age Verification Future
 
