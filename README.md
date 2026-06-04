@@ -17,7 +17,6 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
 | :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/jaromil/status/2034694340249821329) |
 | :no_entry: | **Slackware Linux** | [Developer statement](https://www.linuxquestions.org/questions/showthread.php?p=6626190) |
-| :no_entry: | **Zorin OS** | [Developer statement](https://forum.zorin.com/t/statement-about-age-verification-laws/61052) |
 | :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
 | :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/GrapheneOS/status/2034957604682621229) |
 | :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
@@ -60,6 +59,7 @@ The developers or publishers of these open source Operating Systems have made st
 | :question: | **Bazzite** | No statement regarding age verification, but heavily dependent on Red Hat-adjacent components. |
 | :question: | **Q4OS** | [Developer statement](https://www.q4os.org/forum/viewtopic.php?id=6109) |
 | :question: | **Void Linux** | [Developer statement](https://www.reddit.com/r/voidlinux/comments/1ryhgpl/comment/obeigup/) |
+| :question: | **Zorin OS** | [Developer statement](https://forum.zorin.com/t/statement-about-age-verification-laws/61052) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
